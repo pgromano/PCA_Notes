@@ -1,6 +1,6 @@
 # Principal Component Analysis
 
-A demo of 3 PCA examples is given in [PCA Demo Notebook](PCA Demo.ipynb).
+A demo of 3 PCA examples is given in [PCA Demo Notebook](https://github.com/pgromano/PCA_Notes/blob/master/PCA%20Demo.ipynb).
 
 > "By eye, it is clear that there is a nearly linear relationship between the x and y variables. This is reminiscent of the linear regression data we explored in In Depth: Linear Regression, but the problem setting here is slightly different: rather than attempting to predict the y values from the x values, the unsupervised learning problem attempts to learn about the relationship between the x and y values.
 
