@@ -2,12 +2,9 @@
 
 The following contains 3 example of PCA as a guided tutorial for Insight Data Science Fellows.
 
-1. Principal Components of a Soccer Match
-1. Analyzing the Iris Petal Data
-1. Reducing the Dimensionality of Image Data
-
-The examples are shown in [PCA Demo Notebook](https://github.com/pgromano/PCA_Notes/blob/master/PCA%20Demo.ipynb).
-
+1. [Principal Components of a Soccer Match](https://github.com/pgromano/PCA_Notes/blob/master/PCA_Demo-Analysis_of_a_Soccer_Match.ipynb)
+1. [Analyzing the Iris Petal Data](https://github.com/pgromano/PCA_Notes/blob/master/PCA_Demo-Iris_Data.ipynb)
+1. [Reducing the Dimensionality of Image Data](https://github.com/pgromano/PCA_Notes/blob/master/PCA_Demo-Dimension_Reduction_on_Image_Data.ipynb)
 
 # References
 
